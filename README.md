@@ -1,7 +1,7 @@
 # android
 **Main**
 - **NavigationView**
-![](https://github.com/carot2020/android/blob/master/AdvanceUI/bottom_1.png =250x250)
+![](https://github.com/carot2020/android/blob/master/AdvanceUI/bottom_1.png | width=100)
 
 - **Bottom NavigationView**
 ![Image of Yaktocat]
